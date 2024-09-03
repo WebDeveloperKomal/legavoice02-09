@@ -10,7 +10,7 @@
 [class*=" eicon-"],
 [class^=eicon] {
     display: inline-block;
-    font-family: eicons;
+    font-family: 'Font Awesome 6 Free';
     font-size: inherit;
     font-weight: 400;
     font-style: normal;
@@ -544,7 +544,7 @@
 }
 
 .eicon-close:before {
-    content: '\e87f'
+    content: '\X'
 }
 
 .eicon-file-download:before {
