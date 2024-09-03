@@ -1,0 +1,81 @@
+.elementor-1833 .elementor-element.elementor-element-dee4f5a>.elementor-container {
+    max-width: 900px;
+}
+
+.elementor-1833 .elementor-element.elementor-element-dee4f5a:not(.elementor-motion-effects-element-type-background),
+.elementor-1833 .elementor-element.elementor-element-dee4f5a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-secondary);
+    background-image: url("assets/img/Galary home.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1833 .elementor-element.elementor-element-dee4f5a>.elementor-background-overlay {
+    background-color: var(--e-global-color-secondary);
+    opacity: 0.64;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1833 .elementor-element.elementor-element-dee4f5a {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -166px;
+    margin-bottom: 0px;
+    padding: 286px 0px 120px 0px;
+}
+
+.elementor-1833 .elementor-element.elementor-element-579f334 {
+    text-align: center;
+}
+
+.elementor-1833 .elementor-element.elementor-element-579f334 .elementor-heading-title {
+    color: var(--e-global-color-8c7e707);
+}
+
+.elementor-1833 .elementor-element.elementor-element-3c4d8122 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.elementor-1833 .elementor-element.elementor-element-59abb4c7 {
+    --image-border-radius: 4px;
+    --image-transition-duration: 1200ms;
+    --content-text-align: left;
+    --content-justify-content: flex-end;
+    --content-padding: 20px;
+    --content-transition-duration: 800ms;
+    --content-transition-delay: 800ms;
+}
+
+.elementor-1833 .elementor-element.elementor-element-16a7ff5a {
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+@media(min-width: 1025px) {
+
+    .elementor-1833 .elementor-element.elementor-element-dee4f5a:not(.elementor-motion-effects-element-type-background),
+    .elementor-1833 .elementor-element.elementor-element-dee4f5a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: fixed;
+    }
+}
+
+@media(max-width: 1024px) {
+    .elementor-1833 .elementor-element.elementor-element-1f841c7b>.elementor-element-populated {
+        padding: 0px 40px 0px 40px;
+    }
+
+    .elementor-1833 .elementor-element.elementor-element-41aa788a>.elementor-element-populated {
+        padding: 0px 16px 0px 16px;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-1833 .elementor-element.elementor-element-1f841c7b>.elementor-element-populated {
+        padding: 0px 20px 0px 20px;
+    }
+
+    .elementor-1833 .elementor-element.elementor-element-41aa788a>.elementor-element-populated {
+        padding: 0px 12px 0px 12px;
+    }
+}

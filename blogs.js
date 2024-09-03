@@ -56,7 +56,7 @@ function saveData() {
                 document.getElementById('name').value = '';
                 document.getElementById('email').value = '';
                 document.getElementById('website').value = '';
-                window.location.href = 'Legavoice1-master/blogs.html';
+                window.location.href = 'blogs.html';
             });
         })
         .catch(error => {
