@@ -65,7 +65,7 @@ function saveData() {
                 document.getElementById('appTime').value = '';
                 document.getElementById('overview').value = '';
 
-                window.location.href = 'Legavoice1-master/index.html';
+                window.location.href = 'index.html';
             });
         })
 
